@@ -1,0 +1,10 @@
+print ("Hello World")
+
+cats = ['Vicky', 'Lilly', 'Cali', 'Toast',]
+print(cats[2])
+
+My_Pets = {'Cat1':'Cali', 'Cat2':'Toast'}
+print(My_Pets['Cat2'])
+
+Kids = ('Ashley', 'Nathan', 'Nick', 'Olivia')
+print(Kids[1])
